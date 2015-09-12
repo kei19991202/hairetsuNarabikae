@@ -68,7 +68,7 @@ class ViewController: UIViewController {
     
     @IBAction func tapTsuika(){
         
-        numbers2.append(Int(self.textField.text))
+//        numbers2.append(Int(self.textField.text))
         
         
         
